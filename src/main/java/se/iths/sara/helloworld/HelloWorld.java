@@ -7,5 +7,5 @@ public class HelloWorld {
         for (int i = 0; i < word.length; i++) {
             System.out.print(word[i] + " ");
         }
-    }
+    }//mer kod
 }
